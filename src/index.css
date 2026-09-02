@@ -1,0 +1,46 @@
+:root {
+  --page-bg: #0b0d10;
+  --slide-bg: #14181d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  /* Keep the gutter reserved so lazy slides can't nudge the layout sideways. */
+  scrollbar-gutter: stable;
+}
+
+body {
+  margin: 0;
+  background: var(--page-bg);
+  color: #e9edf2;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* Full-bleed: slides span the whole viewport width, stacked with no gap. */
+.deck {
+  display: flex;
+  flex-direction: column;
+}
+
+.slide {
+  display: block;
+  width: 100%;
+  height: auto;
+  /* Placeholder tone while the image is still in flight. */
+  background: var(--slide-bg);
+  opacity: 0;
+  transition: opacity 200ms ease-out;
+}
+
+.slide.is-loaded {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .slide {
+    transition: none;
+  }
+}
