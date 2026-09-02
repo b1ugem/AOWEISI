@@ -1,0 +1,93 @@
+[
+  {
+    "page": 1,
+    "src": "slides/slide-01-1600.webp",
+    "srcSet": "slides/slide-01-1600.webp 1600w, slides/slide-01-2400.webp 2400w, slides/slide-01-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 2,
+    "src": "slides/slide-02-1600.webp",
+    "srcSet": "slides/slide-02-1600.webp 1600w, slides/slide-02-2400.webp 2400w, slides/slide-02-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 3,
+    "src": "slides/slide-03-1600.webp",
+    "srcSet": "slides/slide-03-1600.webp 1600w, slides/slide-03-2400.webp 2400w, slides/slide-03-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 4,
+    "src": "slides/slide-04-1600.webp",
+    "srcSet": "slides/slide-04-1600.webp 1600w, slides/slide-04-2400.webp 2400w, slides/slide-04-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 5,
+    "src": "slides/slide-05-1600.webp",
+    "srcSet": "slides/slide-05-1600.webp 1600w, slides/slide-05-2400.webp 2400w, slides/slide-05-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 6,
+    "src": "slides/slide-06-1600.webp",
+    "srcSet": "slides/slide-06-1600.webp 1600w, slides/slide-06-2400.webp 2400w, slides/slide-06-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 7,
+    "src": "slides/slide-07-1600.webp",
+    "srcSet": "slides/slide-07-1600.webp 1600w, slides/slide-07-2400.webp 2400w, slides/slide-07-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 8,
+    "src": "slides/slide-08-1600.webp",
+    "srcSet": "slides/slide-08-1600.webp 1600w, slides/slide-08-2400.webp 2400w, slides/slide-08-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 9,
+    "src": "slides/slide-09-1600.webp",
+    "srcSet": "slides/slide-09-1600.webp 1600w, slides/slide-09-2400.webp 2400w, slides/slide-09-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 10,
+    "src": "slides/slide-10-1600.webp",
+    "srcSet": "slides/slide-10-1600.webp 1600w, slides/slide-10-2400.webp 2400w, slides/slide-10-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 11,
+    "src": "slides/slide-11-1600.webp",
+    "srcSet": "slides/slide-11-1600.webp 1600w, slides/slide-11-2400.webp 2400w, slides/slide-11-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 12,
+    "src": "slides/slide-12-1600.webp",
+    "srcSet": "slides/slide-12-1600.webp 1600w, slides/slide-12-2400.webp 2400w, slides/slide-12-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  },
+  {
+    "page": 13,
+    "src": "slides/slide-13-1600.webp",
+    "srcSet": "slides/slide-13-1600.webp 1600w, slides/slide-13-2400.webp 2400w, slides/slide-13-3200.webp 3200w",
+    "width": 1600,
+    "height": 893
+  }
+]
